@@ -5,3 +5,6 @@ sample/sample
 sample_skip/sample_skip
 sample_xml/sample
 sample_xml/results.xml
+Xcode/build
+*.pbxuser
+*.perspectivev3
